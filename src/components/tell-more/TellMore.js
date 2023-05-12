@@ -3,7 +3,7 @@ import "./TellMore.css";
 const TellMore = () => {
   return (
     <div className="tell-us-more-container">
-      <img src="/images/tellMoreImg.png" />
+      <img src="/images/tellMoreImg.png" alt="" />
       <div className="content">
         <h3>About Mariachi</h3>
         <p>

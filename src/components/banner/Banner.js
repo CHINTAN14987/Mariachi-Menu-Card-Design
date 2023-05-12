@@ -9,7 +9,7 @@ const Banner = () => {
         className="banner-background"
       ></div>
       <div className="banner-content">
-        <img src="/images/logo.png" />
+        <img src="/images/logo.png" alt="" />
         <h1>Mariachi</h1>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do

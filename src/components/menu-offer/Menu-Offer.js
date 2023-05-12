@@ -10,7 +10,7 @@ const MenuOfferComponent = (props) => {
       <h3>{heading}</h3>
       <p>{content}</p>
       {isMenuComponent && <button>SEE MENU</button>}
-      {isMenuComponent && <img src="/images/menuItems.png" />}
+      {isMenuComponent && <img src="/images/menuItems.png" alt="" />}
       {!isMenuComponent && (
         <div className="input-wrapper">
           <input />

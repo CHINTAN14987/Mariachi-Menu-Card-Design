@@ -24,7 +24,7 @@ const Offers = () => {
           </p>
           <button>SEE OFFERS</button>
         </div>
-        <img src="/images/offersImg.png" />
+        <img src="/images/offersImg.png" alt="" />
       </div>
 
       <div className="offer-banner-wrapper">
@@ -35,7 +35,7 @@ const Offers = () => {
           className="offers-banner-background"
         ></div>
         <div className="offers-banner-content">
-          <img src="/images/logo.png" />
+          <img src="/images/logo.png" alt="" />
 
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
