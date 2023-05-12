@@ -11,7 +11,7 @@ const Footer = () => {
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
           minim veniam, quis nostrud exercitation ullamco laboris nisi ut
         </p>
-        <img src="/images/icons.png" />
+        <img src="/images/icons.png" alt="" />
       </div>
       <div>
         <h3>About</h3>
